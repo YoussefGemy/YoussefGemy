@@ -27,6 +27,8 @@
 ### Project 1: [Dotnet Showcase](https://github.com/YoussefGemy/dotnet_showcase.git)
 - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price.
 
+### Project 2: [Maze solver](https://github.com/AhmedYahia74/Maze-Solver.git)
+- Maze-Solver is a Python-based maze-solving game implemented using Tkinter. The game allows users to place a rat and a piece of cheese on a grid, and then find paths between them using various algorithms.
 
   
 ## Contact Me
