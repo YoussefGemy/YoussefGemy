@@ -15,7 +15,13 @@
 - **Tools**: Git, GitHub, Visual Studio, Riders
 - **Databases**: SQL Server, Sqlite
 
+## Projects
 
+### Project 1: [Dotnet Showcase](https://github.com/YoussefGemy/dotnet_showcase.git)
+- Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price.
+
+
+  
 ## Contact Me
 
 - **LinkedIn**: https://www.linkedin.com/in/youssef-gamal-118379209/
