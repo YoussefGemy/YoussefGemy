@@ -14,7 +14,7 @@
 - **Frameworks**: ASP.NET, .NET Core
 - **Tools**: Git, GitHub, Visual Studio, Riders
 - **Databases**: SQL Server, Sqlite
-- 
+
 ![Csharp](https://img.shields.io/badge/-Csharp-blue?style=flat&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
