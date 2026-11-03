@@ -10,13 +10,14 @@ I like building things from the ground up to understand how they work — protoc
 | Project | What it is | Stack |
 |---|---|---|
 | [redis-csharp](https://github.com/YoussefGemy/redis-csharp) | *(in progress)* A Redis-compatible server built from scratch: RESP protocol parsing, concurrent clients, key expiry, lists with blocking pops (`BLPOP`) | C#, .NET, TCP sockets |
+| [AIDMS](https://github.com/MoustafaGamal01/AIDMS) | *(team graduation project, 2024)* AI-enhanced university document management: REST API for student records, automated document extraction and validation with Google Cloud AI, JWT auth | ASP.NET Core, EF Core, SQL Server |
 | [competitive-programing](https://github.com/YoussefGemy/competitive-programing) | Solutions to algorithmic problems, focused on graph theory | C++ |
 | [dotnet_showcase](https://github.com/YoussefGemy/dotnet_showcase) | Worked exercises and projects covering modern C# 12 / .NET 8 | C#, .NET 8 |
 
 ### Tech
 
 - **Languages:** C#, C++, Python, SQL
-- **Backend:** ASP.NET Core, REST APIs
+- **Backend:** ASP.NET Core, Entity Framework Core, REST APIs, JWT authentication
 - **Data:** SQL Server, SQLite
 - **Tools:** Git, Visual Studio, JetBrains Rider, Linux
 
