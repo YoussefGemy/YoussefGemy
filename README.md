@@ -1,46 +1,25 @@
-# Hi there, I'm Youssef Gemy 👋
+## Youssef Gamal
 
-## About Me
+Backend developer working mostly in **C# / .NET**, with a competitive-programming background.
+Two-time **ACPC finalist** (Arab Collegiate Programming Contest).
 
-- 🌟 Two-time ACPC Finalist
-- 💻 Computer Science Student
-- 🚀 Proficient in ASP.NET
-- 🔧 Experienced with Git and GitHub
-- 🧠 Problem Solver
+I like building things from the ground up to understand how they work — protocols, data structures, and the systems behind everyday tools.
 
-## Skills
+### Projects
 
-- **Languages**: C#, C++, Python
-- **Frameworks**: ASP.NET, .NET Core
-- **Tools**: Git, GitHub, Visual Studio, Riders
-- **Databases**: SQL Server, Sqlite
+| Project | What it is | Stack |
+|---|---|---|
+| [redis-csharp](https://github.com/YoussefGemy/redis-csharp) | *(in progress)* A Redis-compatible server built from scratch: RESP protocol parsing, concurrent clients, key expiry, lists with blocking pops (`BLPOP`) | C#, .NET, TCP sockets |
+| [competitive-programing](https://github.com/YoussefGemy/competitive-programing) | Solutions to algorithmic problems, focused on graph theory | C++ |
+| [dotnet_showcase](https://github.com/YoussefGemy/dotnet_showcase) | Worked exercises and projects covering modern C# 12 / .NET 8 | C#, .NET 8 |
 
-![Csharp](https://img.shields.io/badge/-Csharp-blue?style=flat&logo=csharp)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)
+### Tech
 
+- **Languages:** C#, C++, Python, SQL
+- **Backend:** ASP.NET Core, REST APIs
+- **Data:** SQL Server, SQLite
+- **Tools:** Git, Visual Studio, JetBrains Rider, Linux
 
-## Projects
+### Contact
 
-### Project 1: [Dotnet Showcase](https://github.com/YoussefGemy/dotnet_showcase.git)
-- Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price.
-
-### Project 2: [Maze solver](https://github.com/AhmedYahia74/Maze-Solver.git)
-- Maze-Solver is a Python-based maze-solving game implemented using Tkinter. The game allows users to place a rat and a piece of cheese on a grid, and then find paths between them using various algorithms.
-
-  
-## Contact Me
-
-- **LinkedIn**: https://www.linkedin.com/in/youssef-gamal-118379209/
-- **GitHub**: https://www.facebook.com/youssef.gemy.1428
-
-## Fun Facts
-
-- I love solving complex algorithms and data structure problems.
-- Passionate about learning new technologies and improving my coding skills.
-
----
-
-Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just want to chat about tech!
+[LinkedIn](https://www.linkedin.com/in/youssef-gamal-118379209/)
